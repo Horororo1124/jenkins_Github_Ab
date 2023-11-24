@@ -1,6 +1,6 @@
 package test;
 
-public class test_one {
+public class test_two {
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello worl1d1");
